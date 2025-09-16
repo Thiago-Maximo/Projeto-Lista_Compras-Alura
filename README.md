@@ -1,6 +1,4 @@
-Ótimo! Com base nessa estrutura que você me mostrou na imagem, o README pode ficar ainda mais organizado e fiel ao seu projeto. Veja uma versão revisada e estilizada:
 
----
 
 # 🛒 Projeto Lista de Compras – Alura
 
